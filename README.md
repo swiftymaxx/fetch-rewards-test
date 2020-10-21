@@ -1,1 +1,1 @@
-# fetch-rewards-test
+# Fetch Rewards App Test
