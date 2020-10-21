@@ -67,7 +67,6 @@
 				7C917AFF253FD9A900C9B3FA /* Extensions */,
 				7C917AF7253F83D500C9B3FA /* Managers */,
 				7C917AF1253F830100C9B3FA /* Model */,
-				7C917AF3253F830B00C9B3FA /* View */,
 				7C917AF2253F830600C9B3FA /* Controller */,
 				7C917ADD253F7FB400C9B3FA /* Assets.xcassets */,
 				7C917ADF253F7FB400C9B3FA /* LaunchScreen.storyboard */,
@@ -90,13 +89,6 @@
 				7C917AEC253F806200C9B3FA /* MainVC.swift */,
 			);
 			path = Controller;
-			sourceTree = "<group>";
-		};
-		7C917AF3253F830B00C9B3FA /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		7C917AF7253F83D500C9B3FA /* Managers */ = {
